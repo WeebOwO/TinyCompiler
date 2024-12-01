@@ -1,0 +1,6 @@
+# build artifacts
+build/
+.cache/
+.xmake/
+# compile commands
+compile_commands.json
